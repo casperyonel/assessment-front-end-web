@@ -36,3 +36,64 @@ input {
 img {
 	max-width: 300px;
 }
+
+#sub-title {
+	position: relative;
+	/* top: 30px; */
+	margin: 10px 0px;
+}
+
+#google {
+	position: relative;
+	left: 24px;
+	bottom: 18px;
+}
+
+#a-friend {
+	position: relative;
+	left: 24px;
+	bottom: 18px;
+}
+
+
+#other {
+	position: relative;
+	left: 24px;
+	bottom: 18px;
+}
+
+#image-div-container {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	width: 33vw;
+	left: 85px;
+	height: 30vh;
+}
+
+.photos {
+	margin: 10px 10px;
+}
+
+#career-goals-ul {
+	position: relative;
+	left: 0px;
+	padding: 0px;
+}
+
+.listOfInterests {
+	margin: 5px;
+}
+
+#interests-form {
+	margin: 20px 0px;
+	height: 70px;
+}
+
+.top-buttons {
+	margin: 12px 12px;
+	display: inline;
+	height: 7vh;
+	width: 15vw;
+	background-color: gold;
+}
